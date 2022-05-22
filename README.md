@@ -1,1 +1,2 @@
 # odin-recipes
+In this lesson I will demonstrate the ability to create a brutalist-like website with just the use of HTML. This website will be based on creating recipes and displaying it on the website using many different techniques such as ordered lists and headings.
